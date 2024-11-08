@@ -16,8 +16,8 @@ The repository has the following folder structure:
 - **Models**
   - **`Deep_NN_Vaccine_Prediction.ipynb`**: Deep Neural Network model for vaccine candidate prediction.
   - **`Finetuned_ESM2_Vaccine_Prediction.ipynb`**: Fine-tuned ESM-2 transformer model for protein sequence classification.
-  - **`GNN_Vaccine_Prediction_3.ipynb`**: Graph Neural Network model utilizing GAT (Graph Attention Network) for candidate prediction based on sequence similarity.
-  - **`XGBoost_Vaccine_Prediction.ipynb`**: XGBoost model with ESM-2 embeddings and BioPython-induced features.
+  - **`GNN_Vaccine_Prediction_3.ipynb`**: Graph Neural Network model utilizing GAT (Graph Attention Network) for candidate prediction based on graph created using sequence similarity with ESM-2 embeddings and Physiological features.
+  - **`XGBoost_Vaccine_Prediction.ipynb`**: XGBoost model with ESM-2 embeddings.
 
 ## Project Overview
 
